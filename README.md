@@ -1,1 +1,1 @@
-Homeworks IFT6561 Automne 2020
+Homeworks for IFT6561 Automne 2020
